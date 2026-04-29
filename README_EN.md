@@ -1,4 +1,26 @@
+# TPS Reforged
 
+Minecraft TPS and MSPT monitor with global and per-dimension performance display, configurable colors, formatting, and actionbar support.
+
+## Overview
+
+TPS Reforged is a lightweight utility mod designed to make Minecraft server performance easier to monitor, with global TPS/MSPT, per-dimension tick information, configurable display options, and optional actionbar monitoring.
+
+## Features
+
+- Global server TPS and MSPT display
+- Per-dimension TPS/MSPT display
+- Compact one-line output per dimension
+- Configurable colors
+- Configurable TPS/MSPT thresholds
+- Configurable dimension display names
+- Automatic config entry generation for unknown dimensions
+- Custom dimension ordering
+- Hidden dimensions support
+- Configurable output line format
+- Optional actionbar TPS display
+- Support for Minecraft `1.21.1`
+- Development targeting `Fabric`
 
 ## Public Repository Purpose
 
@@ -24,8 +46,8 @@ If you would like to host a server for CobbleSpawnAlert Reforged while supportin
 
 ## Downloads
 
-- [CurseForge]()
-- [Modrinth]()
+- [CurseForge]() WIP
+- [Modrinth]() WIP
 
 ## Development Status
 
@@ -35,7 +57,7 @@ Additional documentation for installation, configuration, commands, and usage ma
 
 ## Links
 
-- [Issues]()
-- [Changelog : Fabric]()
-- [Changelog : Neoforge]()
+- [Issues](https://github.com/callmeloxy/TPS-Reforged/issues)
+- [Changelog : Fabric](https://github.com/callmeloxy/TPS-Reforged/blob/main/fabric/CHANGELOG.md)
+- [Changelog : Neoforge]() WIP
 - [Discord](https://discord.gg/NsNGDKxrYr)
