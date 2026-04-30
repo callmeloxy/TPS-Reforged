@@ -46,7 +46,7 @@ Si vous souhaitez héberger un serveur pour CobbleSpawnAlert Reforged tout en so
 
 ## Downloads
 
-- [CurseForge]() WIP
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tps-reforged)
 - [Modrinth](https://modrinth.com/mod/tps-reforged) WIP
 
 ## État du développement
